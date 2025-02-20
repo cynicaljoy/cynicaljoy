@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I abuse emojis and will continue to do so until (1) you politely ask me to stop (2) we have unique fonts to convey tone 😛
+
 ## 🛠️ Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
