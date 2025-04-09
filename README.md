@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 I abuse emojis and will continue to do so until (1) you politely ask me to stop (2) we have unique fonts to convey tone 😛
 
+I have a lot of _opinions_, but I'm eager to be persuaded to update them. 
+
 ## 🛠️ Tech
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
