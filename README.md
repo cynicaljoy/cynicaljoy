@@ -1,18 +1,4 @@
 ### Hi there 👋
-<!--
-**cynicaljoy/cynicaljoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 I abuse emojis and will continue to do so until (1) you politely ask me to stop (2) we have unique fonts to convey tone 😛
 
@@ -41,3 +27,21 @@ I have a lot of _opinions_, but I'm eager to be persuaded to update them.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/darrencham)
 - 👓 [Personality Junkie Test Result](https://personalityjunkie.com/test-result-infp/)
+
+## 🔨 The Multidisciplinary Engineer
+
+I don’t just write code; I build systems that evolve. My career has been a continuous journey of identifying the "next big thing" and mastering it to solve business problems.
+
+My Evolution
+
+- **Foundations:** Started in Linux Cluster Administration, mastering the "how" of compute at the hardware level.
+- **Build:** Transitioned into Fullstack & Mobile Development to understand how users interact with software and how to build end-to-end products.
+- **Scale:** Moved into Engineering Management, learning that the hardest part of software is the people and the culture of winning together.
+- **Cloud:** Cloud Architecture & DevOps, specifically leveraging Infrastructure as Code (IaC) to create resilient, scalable systems, creating accelerators for service teams.
+- **Future:** <TBD> 👀
+
+## ⚡ Superpowers
+
+- **Context Shifting:** I apply learnings from low-level systems to high-level architecture.
+- **Extreme Ownership:** I treat every project like a business. If it’s broken, I fix it; if it’s slow, I optimize it.
+- **Mentorship:** I believe winning is a team sport. I find as much joy in unblocking my team as I do in shipping a complex feature.
