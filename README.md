@@ -42,6 +42,6 @@ My Evolution
 
 ## ⚡ Superpowers
 
-- **Context Shifting:** I apply learnings from low-level systems to high-level architecture.
+- **Toil Elimination:** I have a low tolerance for repetitive, manual work (toil). I leverage my impatience to build automation workflows and Infrastructure as Code that provide guardrails and speed for the entire team.
 - **Extreme Ownership:** I treat every project like a business. If it’s broken, I fix it; if it’s slow, I optimize it.
 - **Mentorship:** I believe winning is a team sport. I find as much joy in unblocking my team as I do in shipping a complex feature.
